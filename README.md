@@ -1,0 +1,2 @@
+# ChatGptPlugin
+Sample ChatGPT plugin
